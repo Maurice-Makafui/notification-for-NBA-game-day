@@ -16,8 +16,11 @@ This very  project is a smart alert system built to deliver all specified  real-
 
 ## **Technologies used**
 -AWS (SNS,EVENT BRIDGE,LAMBDA)
+
 -NBA GAME API FROM [sportsdata.io](https://sportsdata.io/)
+
 -PYTHON 3X.
+
 -IAM for securing the AWS SERVICES.
 
 ## **Project file Structure**
@@ -67,7 +70,7 @@ git clone https://github.com/Maurice-Makafui/notification-for-NBA-game-day.git
 
 - For SMS (phone number):
   - Choose SMS.
-  - Enter a valid phone number in international format (e.g., +1234567890).
+  - Enter a valid phone number in international format (e.g., +23327711534).
 
 
 
