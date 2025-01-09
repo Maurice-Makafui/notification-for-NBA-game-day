@@ -16,7 +16,9 @@ This very  project is a smart alert system built to deliver all specified  real-
 
 ## **Technologies used**
 -AWS (SNS,EVENT BRIDGE,LAMBDA)
+
 -NBA GAME API FROM [sportsdata.io](https://sportsdata.io/)
+
 -PYTHON 3X.
 -IAM for securing the AWS SERVICES.
 
