@@ -3,7 +3,7 @@
 **The Project Overview**
 This very  project is a smart alert system built to deliver all specified  real-time NBA game day scores notifications to subscribed users to either their SMS and email(which ever is preferable by the user). It leverages AWS services such as the  SNS, Lambda, and EventBridge working  with the NBA API, made to  provide sports fans with all  up-to-date game information. This project emphazises on  cloud computing principles and as well  efficient notification mechanisms.
 
-## **The Project architecture **
+## **The Project architecture**
 ![NBA NOTIFICATION ARCH](https://github.com/user-attachments/assets/0e31b93d-d6f9-4565-82c3-d455eba958d9)
 
 
